@@ -1,2 +1,0 @@
-# michellepoplin.github.io
-readme
